@@ -8,7 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          Hyunmo Kang's React Page!
         </p>
+        <a href="https://github.com/22100026/2024OSS-4-1">Git Hub</a>
         <a
           className="App-link"
           href="https://reactjs.org"
