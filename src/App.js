@@ -1,13 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import Hello from './Hello.js';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <Hello />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
           Hyunmo Kang's React Page!
         </p>
         <a href="https://github.com/22100026/2024OSS-4-1" className="git-link">Git Hub</a>
