@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           Hyunmo Kang's React Page!
         </p>
-        <a href="https://github.com/22100026/2024OSS-4-1">Git Hub</a>
+        <a href="https://github.com/22100026/2024OSS-4-1" className="git-link">Git Hub</a>
         <a
           className="App-link"
           href="https://reactjs.org"
